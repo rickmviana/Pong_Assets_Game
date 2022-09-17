@@ -44,5 +44,7 @@ Teclas:
 ...
   
 Um canalzinho no YouTube que tenho e postei um vídeo em Time-Lapse de eu programando o jogo do 0
+
 Link: https://youtu.be/GPdcwpb8eqI
+
 Caso queria ver ele sendo feito.
