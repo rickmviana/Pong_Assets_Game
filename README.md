@@ -9,13 +9,16 @@ Atualizações add no jogo:
 - Add sistema de música para menu e partida de jogo entre os modos(1 player, 2 players e IA).
 - Add Sistema de pause após marcar um ponto.
 - Add sistema que pertime ao jogador movimentar a barra Player 1 com o mouse ao pressioná-lo.
+
 ...
+
 Atuealizaçõas Futuras:
 - Add um sistema de Loja com opções de skins.
 - Melhorar a aparencia grafica do jogo/alteração dos tiles.
 - Sistema para salvar pontuação.
 - Optimizar as linhas de código.
 - Corrigir Bug "Bolinha" sai para fora do mapa.
+
 ...
 
 Como jogar? 
@@ -37,7 +40,8 @@ Teclas:
   {
     Jogo roda automatico.
   }
-  ...
+  
+...
   
 Um canalzinho no YouTube que tenho e postei um vídeo em Time-Lapse de eu programando o jogo do 0
 Link: https://youtu.be/GPdcwpb8eqI
