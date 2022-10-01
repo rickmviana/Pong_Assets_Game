@@ -10,6 +10,7 @@ Atualizações add no jogo:
 - Add sistema de música para menu e partida de jogo entre os modos(1 player, 2 players e IA).
 - Add Sistema de pause após marcar um ponto.
 - Add sistema que pertime ao jogador movimentar a barra Player 1 com o mouse ao pressioná-lo.
+- Correção de bug, modo IAvsIA sempre ligado nos modos Um jogador e Dois Jogadores
 
 ...
 
@@ -42,7 +43,7 @@ Teclas:
     Jogo roda automatico.
   }
   
-...
+...  
   
 Um canalzinho no YouTube que tenho e postei um vídeo em Time-Lapse de eu programando o jogo do 0
 
